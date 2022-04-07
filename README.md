@@ -17,6 +17,8 @@ Pandas is used to read the CSV file containing the emails to send the letters to
 pip3 install pandas
 ```
 #### Run
+In main.py you have to enter your email and password.  
+Update the receiver_email.csv file with all the contacts you want to check.
 ```
 python3 main.py
 ```
