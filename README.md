@@ -1,9 +1,9 @@
 # Birthday and motivational send
 
 ## Index
-1. [What is](#What-is)
-2. [Dependencies](#Dependencies)
-3. [Run](#Run)
+1. [What is](#what-is)
+2. [Dependencies](#dependencies)
+3. [Run](#run)
 
 
 
